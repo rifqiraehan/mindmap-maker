@@ -33,32 +33,33 @@ Contoh:
 
 # Input markdown dari user
 default_markdown = """# Anime
-## Shounen
-### Naruto
-- Uzumaki Naruto
-- Uchiha Sasuke
-- Haruno Sakura
-### One Piece
-- Monkey D. Luffy
-- Roronoa Zoro
-- Nami
-### My Hero Academia
-- Midoriya Izuku
-- Bakugou Katsuki
-- Todoroki Shouto
-## Shoujo
-### Sailor Moon
-- Tsukino Usagi
-- Mizuno Ami
-- Hino Rei
-### Cardcaptor Sakura
-- Kinomoto Sakura
-- Li Syaoran
-- Daidouji Tomoyo
-### Ouran High School Host Club
-- Fujioka Haruhi
-- Suou Tamaki
-- Ootori Kyouya
+## Music
+### Love Live! School Idol Project
+- Ayumu Uehara
+- Setsuna Yuuki
+- Karin Asaka
+### K-On!
+- Yui Hirasawa
+- Mio Akiyama
+- Ritsu Tainaka
+### BanG Dream!
+- Kasumi Toyama
+- Tae Hanazono
+- Arisa Ichigaya
+
+## Other
+### Fate/Stay Night
+- Shirou Emiya
+- Saber (Artoria Pendragon)
+- Rin Tohsaka
+### Chi: Chikyuu no Undou ni Tsuite
+- Rafal
+- Badeni
+- Nowak
+### One Outs
+- Toua Tokuchi
+- Kojima Hiromichi
+- Saikawa
 
 """
 
