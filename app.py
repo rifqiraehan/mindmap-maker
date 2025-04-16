@@ -34,7 +34,7 @@ Contoh:
 # Input markdown dari user
 default_markdown = """# Anime
 ## Music
-### Love Live! School Idol Project
+### Love Live! Nijigaku
 - Ayumu Uehara
 - Setsuna Yuuki
 - Karin Asaka
