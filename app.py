@@ -49,9 +49,9 @@ default_markdown = """# Anime
 
 ## Other
 ### Fate/Stay Night
-- Shirou Emiya
-- Saber (Artoria Pendragon)
 - Rin Tohsaka
+- Altria Pendragon
+- Sakura Matou
 ### Chi: Chikyuu no Undou ni Tsuite
 - Rafal
 - Badeni
